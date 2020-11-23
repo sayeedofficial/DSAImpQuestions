@@ -1,0 +1,1 @@
+{"name":"Local: subarraysum0","url":"/Users/mohammedsayeed/Desktop/SDE450/subarraysum0.cpp","tests":[{"id":1606140525620,"input":"5\n111 222 333 444 555","output":"1"},{"id":1606141020098,"input":"3\n121 131 20","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mohammedsayeed/Desktop/SDE450/subarraysum0.cpp","group":"local","local":true}
