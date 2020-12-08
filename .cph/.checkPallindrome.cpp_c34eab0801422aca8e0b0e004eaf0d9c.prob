@@ -1,1 +1,0 @@
-{"name":"Local: checkPallindrome","url":"/Users/mohammedsayeed/Desktop/SDE450/checkPallindrome.cpp","tests":[{"id":1606141757391,"input":"2\n5\n1 2 3 4 5\n8\n9 8 7 6 4 2 1 3","output":"5 1 2 3 4\n3 9 8 7 6 4 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mohammedsayeed/Desktop/SDE450/checkPallindrome.cpp","group":"local","local":true}

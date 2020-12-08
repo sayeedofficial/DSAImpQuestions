@@ -1,25 +1,27 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
+#define ll long long
 
 
 
-int main() {
+int main(int argc, char const *argv[])
+{
+    int t;
+    cin>>t;
 
-#ifndef ONLINE_JUDGE
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-#endif
+    while(t--){
+        ll a,b;
+        cin>>a>>b;  
 
-	int t;
-	cin >> t;
-
-	while (t--) {
-		cout<<t;
-	}
-
-
-
-	return 0;
-
-
+        if(a==1 && b==1){
+            cout<<1<<endl;
+        }
+        else{
+            ll smallAns = (a*b )- ((a+1)/2)*((b/2))- (b+1)/2*(a/2) ;
+            cout<<smallAns<<endl;
+        }
+        
+    }
+    
+    return 0;
 }

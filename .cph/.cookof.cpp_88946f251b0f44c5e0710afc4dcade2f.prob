@@ -1,1 +1,0 @@
-{"name":"Local: cookof","url":"/Users/mohammedsayeed/Desktop/SDE450/cookof.cpp","tests":[{"id":1606066665195,"input":"3\n100001\n110111\n1010\n1010\n000\n111","output":"2\n0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mohammedsayeed/Desktop/SDE450/cookof.cpp","group":"local","local":true}
